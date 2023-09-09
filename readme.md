@@ -1,9 +1,9 @@
-#Percobaan Custom google Form
+# Percobaan Custom google Form
 
-##Install
-pnpm install
+## Install
+> pnpm install
 
-##Jalankan Tailwind
-npx tailwindcss -i ./input.css -o ./dist/style.css
+## Jalankan Tailwind
+> npx tailwindcss -i ./input.css -o ./dist/style.css
 
 OK!
